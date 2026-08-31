@@ -57,4 +57,3 @@ A M365 tenant with:
 
 ## Lessons Learned
   - I realized that creating users one at a time in the admin center was painfully slow. This directly motivated my second project using PowerShell automation. 
-  - 
